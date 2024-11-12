@@ -1,6 +1,6 @@
 # Example Binary Server
 
-This is a very basic (read highly flaky and deeply insecure) example of a binary file server in Java. It's not an Eclipse project and uses default packages so can just be compiled with javac.
+This is a very basic (read *highly flaky and deeply insecure*) example of a binary file server in Java. It's not an Eclipse project and uses default packages so can just be compiled with javac.
 
 Once compiled you can run FileServer and FileClient.
 
